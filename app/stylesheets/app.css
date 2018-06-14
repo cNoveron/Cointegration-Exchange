@@ -1,0 +1,59 @@
+h1, .h1 {
+    font-size: 52px;
+    font-family: Lato;
+    font-weight: 900;
+}
+
+h3, .h3 {
+    font-family: Ubuntu;
+}
+
+.navbar-default {
+    background-color: #070044;;
+}
+
+.panel-primary {
+    /* border-color: #337ab7; */
+    background: #2b567b;
+    color: #fff;
+}
+
+.panel-footer {
+    padding: 10px 15px;
+    background-color: #3c763d;
+}
+
+.navbar-default .navbar-nav > .active > a, 
+.navbar-default .navbar-nav > .active > a:hover, 
+.navbar-default .navbar-nav > .active > a:focus {
+    font-family: Lato;
+    color: #555;
+    background-color: #ffffff;
+}
+
+.buytoken .panel {
+    background: #406b40;
+    color: #fff;
+}
+
+.buytoken .form-control {
+    color: #005f27;
+    background-color: #bfeabe;
+    border: 1px solid #79a079;
+}
+
+.selltoken .panel{
+    background: #7b2629;
+    color: #fff;
+}
+
+.selltoken .panel-footer {
+    background: #8c272b;
+    color: #fff;
+}
+
+.selltoken .form-control {
+    color: #a5000b;
+    background-color: #f7d0d3;
+    border: 1px solid #946d6d;
+}
